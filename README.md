@@ -31,3 +31,10 @@ python youtube_downloader.py
 
 ## Testing
 python test_youtube_downloader.py
+
+## License
+This project is licensed under the MIT License.
+
+## Author
+- Andrei Iliescu
+- Built with focus on clean UI and functional design.
