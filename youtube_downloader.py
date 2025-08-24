@@ -11,7 +11,7 @@ def download_video(url):
 
     with yt_dlp.YoutubeDL(ydl_opts) as ydl:
         info = ydl.extract_info(url, download=True)
-        print(f"Titlu: {info['title']}")
+        print(f"Title: {info['title']}")
         print("Download finished.")
 
 
