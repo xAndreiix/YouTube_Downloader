@@ -14,15 +14,13 @@ A simple and efficient Python utility that allows users to download videos direc
 ---
 
 ## Requirements
-
 - Python 3.7+
 - [yt_dlp](https://pypi.org/project/yt-dlp/)
 
 Install dependencies:
-
-```bash```
+```bash
 pip install yt_dlp
-
+```
 ---
 
 ## Files included
